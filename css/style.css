@@ -85,6 +85,7 @@ i {
   background-color: #333333;
   position: fixed;
   top: 0px;
+  z-index: 100;
 }
 
 #navBar h1 {
